@@ -1,1 +1,1 @@
-This is for teting purpose # devopsdemo
+This is for teting purpose. The project name is devopsdemo
