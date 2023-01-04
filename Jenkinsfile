@@ -1,11 +1,10 @@
 pipeline {
     agent any
-
     stages {
         stage('Build') {
             steps {
                  
-                sh "python ./test.py" 
+                sh 'python test.py'
             }
         }
     }
