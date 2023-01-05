@@ -1,1 +1,5 @@
-TEst3 file in develop1 branch..
+v1="abbdcccdaabbc"
+L=list(v1)
+print(L)
+D={i:L.count(i) for i in L}
+print("The required count of each characters : ", D)
