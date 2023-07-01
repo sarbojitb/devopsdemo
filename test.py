@@ -1,1 +1,1 @@
-print("Just like that")
+print("Just like that!")
